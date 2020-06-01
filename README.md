@@ -1,2 +1,3 @@
-# SignetRingCellDetection
-This repository showcases the deep learning model RetinaNet doing the task of signet ring cell detection using a TensorFlow backend.
+# Cancerous Signet Ring Cell Detection
+Signet ring cell carcinoma is a type of rare adenocarcinoma with poor prognosis. Early detection of such cells leads to a huge improvement in patients' survival rate. However, there is no existing public dataset with annotations for studying the problem of signet ring cell detection.
+I will be following the DigestPath 2019 research challenge in MICAAI’19 and focus on developing an automatic system that detects signet ring cells in histology images without the need for pathologists to detect each signet ring cell under a microscope. Manual detection like this can lead to some cells being missed out and left undetected and an automatic system would be put in place to avoid this issue. As a result, it will hopefully provide a cheaper and time-efficient way to detect signet ring cells.
